@@ -1,0 +1,1 @@
+# How-to-Create-user-on-Alt-linux-and-add-him-to-sudoers
